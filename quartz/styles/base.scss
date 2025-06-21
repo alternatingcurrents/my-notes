@@ -9,11 +9,12 @@ html {
   text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
+  font-size: 62.5%;
 }
 
 body {
   margin: 0;
-  font-size: 18px;
+  font-size: calc(1.4rem + 0.5vw);
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
@@ -171,7 +172,7 @@ width: 100%;
   margin-right: auto;
   & article {
     & > h1 {
-      font-size: 1rem;
+    font-size: calc(1.6rem + 0.5vw);
     }
 
     & li:has(> input[type="checkbox"]) {
@@ -366,7 +367,7 @@ h5,
 h6,
 thead {
   font-family: var(--headerFont);
-  color: var(--dark);
+  color: var(--darkgray);
   font-weight: revert;
   margin-bottom: 0;
 
@@ -402,14 +403,14 @@ h6 {
 
 // typography improvements
 h1 {
-  font-size: 1.4rem;
+  font-size: calc(1.4rem + 0.5vw);
   margin-top: 2.25rem;
-  margin-bottom: 21rem;
+  margin-bottom: 1rem;
   font-weight: 500;
 }
 
 h2 {
-  font-size: 1rem;
+  font-size: calc(1.4rem + 0.5vw);
   margin-top: 1.9rem;
   margin-bottom: 1rem;
 }
