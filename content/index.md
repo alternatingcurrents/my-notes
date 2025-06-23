@@ -2,16 +2,11 @@
 title:
 ---
 
-Hi, 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum, nisi aliquam placerat tincidunt, nunc mauris semper justo, ac rutrum quam tortor sed ex. Donec nec tortor lorem. Nulla finibus fringilla ultricies. Vestibulum lobortis venenatis erat eget tincidunt. Donec vel orci aliquam, vehicula nulla et, tempus sapien. Quisque purus lorem, commodo vestibulum sem eu, pulvinar imperdiet urna. Phasellus dictum turpis vitae ante pulvinar, in tincidunt felis accumsan. Phasellus dictum felis nec magna suscipit, ut pretium odio venenatis. Nunc vulputate quis eros non mattis.
-
-Mauris luctus ante nibh, tempus tristique arcu tincidunt at. Suspendisse at facilisis justo. Sed blandit consequat est, vitae tempor justo condimentum suscipit. Etiam a hendrerit lectus. Etiam nibh velit, dignissim vitae magna eget, consequat malesuada ligula. Maecenas eget leo ornare, bibendum augue ac, vulputate quam. Pellentesque finibus posuere turpis, ac placerat purus interdum sed. Suspendisse potenti. Aliquam erat volutpat. Nam fringilla odio id tincidunt luctus. Aenean mattis id mauris ut vehicula. Sed bibendum congue maximus. Maecenas euismod maximus lacinia. Sed a dui et ipsum mattis dictum. Pellentesque eu hendrerit tortor, ornare euismod lorem. Nullam euismod sodales lorem ut dapibus.
-
-Pellentesque molestie commodo ipsum, vel ullamcorper lectus efficitur sed. Proin enim neque, cursus non iaculis nec, semper et lacus. Vivamus vehicula nisl sagittis libero condimentum, at condimentum libero luctus. Quisque sollicitudin, magna vel imperdiet cursus, odio nulla mollis lacus, sed iaculis velit mauris eget velit. Donec ultricies odio a dolor scelerisque blandit. Mauris eget dapibus arcu, sit amet posuere tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris euismod pulvinar turpis, eget lobortis turpis mollis ut. Integer quis nulla ac enim interdum iaculis. Quisque tempor lorem pharetra erat finibus, vel pellentesque ipsum gravida. Pellentesque laoreet bibendum ultrices.
-
-Duis cursus massa a est sagittis placerat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ornare, felis at commodo tincidunt, massa tellus vulputate arcu, eget dictum est diam vel justo. Morbi ultrices mi rhoncus enim fermentum, non sagittis mauris convallis. Sed nulla magna, euismod eu volutpat sed, sollicitudin et mi. Mauris eget lacus eu magna bibendum porttitor. Cras eleifend urna libero, et porttitor massa efficitur quis. Aliquam id metus sit amet ex iaculis lacinia eu a lectus.
-
-Morbi elementum est sem. Cras blandit laoreet nulla vitae semper. Nunc mattis malesuada dictum. Maecenas in molestie mauris, nec convallis mi. Nulla interdum nisi ut urna pellentesque, at sagittis nisi mollis. Fusce hendrerit mauris diam, suscipit lobortis est lacinia non. Ut nisl odio, ullamcorper ornare elit ut, porttitor rhoncus libero. In sollicitudin justo est, quis efficitur magna efficitur sed. Mauris ornare purus eget tortor convallis fermentum. Proin et auctor lacus, non ornare neque. Vestibulum at augue cursus, ullamcorper odio eu, elementum ligula. Vestibulum sagittis a metus eget placerat. Pellentesque lorem diam, commodo in luctus at, euismod ac lorem. Nullam mattis, metus sit amet luctus fringilla, ipsum nisl porttitor nibh, et mollis augue diam at risus.
+# Writing
+- 2025/06 [In Proximity Of – On Schimmenspel, a video installation by Iratxe Jaio and Klaas van Gorkum](https://witterook.nl/en/story/in-proximity-of-on-schimmenspel-a-video-installation-by-iratxe-jaio-and-klaas-van-gorkum/)
+- 2025/05 [Presence in the Age of Prediction](https://www.ie.edu/insights/articles/presence-in-the-age-of-prediction/)
+- 2020/05 [Refugee on Trial: The Hole in the Donut](https://www.artseverywhere.ca/refugee-on-trial/)
+- 2019/06 [[Straight Roads and Other Ghosts]]
 
 [[about]]
 [[Note two]]

@@ -5,6 +5,7 @@
 .page-header a[href="."] {
   color: var(--dark);
   font-size: calc(1.6rem + 0.5vw);
+  text-decoration: none;
 }
 
 .page-header a[href="."]:hover {

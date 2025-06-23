@@ -14,7 +14,7 @@ html {
 
 body {
   margin: 0;
-  font-size: calc(1.4rem + 0.5vw);
+  font-size: calc(1.2rem + 0.5vw);
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
@@ -87,9 +87,9 @@ strong {
 
 a {
   font-weight: normal;
-  text-decoration: none;
+  text-decoration: underline;
   transition: color 0.2s ease;
-  color: var(--secondary);
+  color: var(--dark);
 
   &:hover {
     color: var(--tertiary);
@@ -521,7 +521,7 @@ code {
 tbody,
 li,
 p {
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 .table-container {
