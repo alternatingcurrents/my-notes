@@ -24,12 +24,12 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Inter",
-        body: "Inter",
+        body: "Newsreader",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#fffcf0",
+          light: "#f7e3d0",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
