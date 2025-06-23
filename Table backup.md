@@ -1,7 +1,4 @@
----
-title:
----
-In progress. In the meantime, here's some links to writing:
+
 
 | Writing                                                                                                                        |                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -9,6 +6,3 @@ In progress. In the meantime, here's some links to writing:
 | 2025/05                                                                                                                        | [Presence in the Age of Prediction](https://www.ie.edu/insights/articles/presence-in-the-age-of-prediction/)                                                                                                           |
 | 2020/05                                                                                                                        | [Refugee on Trial: The Hole in the Donut](https://www.artseverywhere.ca/refugee-on-trial/)                                                                                                                             |
 | 2019/06                                                                                                                        | [[Straight Roads and Other Ghosts]]                                                                                                                                                                                    |
-
----
-[[about]]

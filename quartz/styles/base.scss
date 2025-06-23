@@ -14,7 +14,7 @@ html {
 
 body {
   margin: 0;
-  font-size: calc(1rem + 0.5vw);
+  font-size: 1.6rem;
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
@@ -551,6 +551,7 @@ th {
   border-bottom: none;
   color: var(--dark);
   font-weight: normal;
+  font-size: calc(1.4rem + .5vw);
 }
 
 td {
@@ -582,7 +583,7 @@ hr {
   margin: 2rem auto;
   height: 1px;
   border: none;
-  background-color: var(--lightgray);
+  background-color: var(--dark);
 }
 
 audio,
