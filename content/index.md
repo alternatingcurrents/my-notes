@@ -2,7 +2,7 @@
 title:
 ---
 
-this is a website in progress. Testing
+Hi, 
 
 [[about]]
 [[Note two]]
