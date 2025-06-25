@@ -1,1 +1,2 @@
-Testing testing and again testing.
+- [e-mail](mailto:info@nielsbekkema.nl)
+- [LinkedIn](https://www.linkedin.com/in/nielsbekkema/)
