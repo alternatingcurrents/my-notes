@@ -652,3 +652,14 @@ iframe.pdf {
   transition: width 0.2s ease;
   z-index: 9999;
 }
+
+.about-link {
+  @extend h1;
+  font-size: inherit;
+  text-decoration: none;
+  color: var(--secondary);
+
+  &:hover {
+    color: var(--tertiary);
+  }
+}

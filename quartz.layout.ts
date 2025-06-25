@@ -8,8 +8,17 @@ export const sharedPageComponents: SharedLayout = {
     Component.Flex({
       justify: "space-between",
       components: [
-        { Component: Component.PageTitle() },
-        { Component: Component.Darkmode() },
+        { Component: Component.PageTitle() },             // left
+
+        {                                                // right-side group
+          Component: Component.Flex({
+            gap: "0.75rem",
+            components: [
+              { Component: Component.AboutButton() },
+              { Component: Component.Darkmode() },
+            ],
+          }),
+        },
       ],
     }),
   ],
