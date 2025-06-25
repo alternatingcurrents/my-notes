@@ -1,7 +1,9 @@
 ---
 title:
 ---
-In progress. In the meantime, here's some links to writing:
+Hi, my name is Niels Bekkema, I’m a writer, editor and translator with a background in visual arts. I'm the cofounder of [kilo Translations](https://www.kilotranslations.org/), and I’m a Reader/Advisor/Editor for the Geopolitical Open Atlas of the Polity of Literature ([the GOAT PoL](https://www.thegoatpol.org/)). In addition, I work as a Research and Writing professor for Insituto de Empresa ([IE University](https://www.ie.edu)) in Madrid and Segovia (ES).
+
+I plan to keep this site updated with writing, notes and visual material. Stay tuned…
 
 | Writing                                                                                                                        |                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -9,6 +11,3 @@ In progress. In the meantime, here's some links to writing:
 | 2025/05                                                                                                                        | [Presence in the Age of Prediction](https://www.ie.edu/insights/articles/presence-in-the-age-of-prediction/)                                                                                                           |
 | 2020/05                                                                                                                        | [Refugee on Trial: The Hole in the Donut](https://www.artseverywhere.ca/refugee-on-trial/)                                                                                                                             |
 | 2019/06                                                                                                                        | [[Straight Roads and Other Ghosts]]                                                                                                                                                                                    |
-
----
-[[about]]

@@ -14,7 +14,7 @@ export const sharedPageComponents: SharedLayout = {
     }),
   ],
   afterBody: [],
-  footer: () => null,
+  footer: Component.CustomFooter(),
 }
 
 // components for pages that display a single page (e.g. a single note)

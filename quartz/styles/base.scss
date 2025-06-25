@@ -36,13 +36,12 @@ ul,
 text,
 a,
 tr,
-td,
 li,
 ol,
 ul,
 .katex,
 .math {
-  color: var(--darkgray);
+  color: var(--dark);
   fill: var(--darkgray);
   hyphens: auto;
 }
@@ -549,7 +548,7 @@ th {
   text-align: left;
   padding: 0;
   border-bottom: none;
-  color: var(--dark);
+  color: var(--darkgray);
   font-weight: normal;
   font-size: calc(1.4rem + .5vw);
 }
@@ -557,6 +556,7 @@ th {
 td {
   padding: 0;
   vertical-align: top;
+  color: var(--darkgray);
 }
 
 tr {
