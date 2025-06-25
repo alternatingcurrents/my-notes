@@ -95,8 +95,7 @@ a {
   }
 
   &.internal {
-    text-decoration: none;
-    background-color: var(--highlight);
+    text-decoration: underline;
     padding: 0 0.1rem;
     border-radius: 5px;
     line-height: 1.4rem;
@@ -405,7 +404,7 @@ h1 {
   font-size: calc(1.4rem + 0.5vw);
   margin-top: 2.25rem;
   margin-bottom: 1rem;
-  font-weight: 500;
+  font-weight: 350;
 }
 
 h2 {
@@ -549,7 +548,7 @@ th {
   padding: 0;
   border-bottom: none;
   color: var(--darkgray);
-  font-weight: normal;
+  font-weight: 350;
   font-size: calc(1.4rem + .5vw);
 }
 
@@ -655,9 +654,7 @@ iframe.pdf {
 
 .about-link {
   @extend h1;
-  font-size: inherit;
   text-decoration: none;
-  color: var(--secondary);
 
   &:hover {
     color: var(--tertiary);

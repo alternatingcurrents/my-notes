@@ -12,7 +12,7 @@ export const sharedPageComponents: SharedLayout = {
 
         {                                                // right-side group
           Component: Component.Flex({
-            gap: "0.75rem",
+            gap: "3rem",
             components: [
               { Component: Component.AboutButton() },
               { Component: Component.Darkmode() },
