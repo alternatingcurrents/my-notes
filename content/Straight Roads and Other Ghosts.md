@@ -1,4 +1,4 @@
-*This essay was written in response to the exhibition “Shyness of the Crowns”, that was curated by Beatriz Alonso. The exhibition was shown in museum Frac Lorraine in Metz, France, among other places. The essay will be published later this year, along with other responses in writing to the exhibition.  Thank you: Matthew Stadler*
+*This essay was commissioned by Beatriz Alonso, in response to her exhibition [Shyness of The Crown](https://www.fraclorraine.org/ancien-site/en/voyagez/autres/528.html) in museum Frac Lorraine in Metz, France. Thank you, Matthew Stadler, for your editorial support and guidance.*
 
 # Straight Roads and Other Ghosts
 
