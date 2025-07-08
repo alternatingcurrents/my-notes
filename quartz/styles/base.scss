@@ -653,7 +653,7 @@ iframe.pdf {
 }
 
 .about-link {
-  @extend h1;
+  @extend h2;
   text-decoration: none;
 
   &:hover {
