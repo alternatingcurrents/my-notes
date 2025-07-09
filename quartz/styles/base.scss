@@ -550,6 +550,7 @@ th {
   color: var(--darkgray);
   font-weight: 350;
   font-size: calc(1.4rem + .5vw);
+  padding-bottom: 2rem;
 }
 
 td {
@@ -579,7 +580,7 @@ p > img + em {
 
 hr {
   width: 100%;
-  margin: 2rem auto;
+  margin: 4rem 0 4rem;
   height: 1px;
   border: none;
   background-color: var(--dark);
