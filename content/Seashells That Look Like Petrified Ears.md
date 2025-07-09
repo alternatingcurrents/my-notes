@@ -1,3 +1,5 @@
+## Seashells That Look Like Petrified Ears
+
 _Seashells That Look Like Petrified Ears_ is a self-published collection of short stories, each of which begins with the idea of walking. In some, this takes a literal form—for example, in _Train_, where two characters search for a seat and gradually perceive the train transforming into a mountain landscape. In others, walking is approached more abstractly, as in _At the Same Time_ or _Nomad_, which explore themes of economic frugality, companionship, longing, and disorientation.
 ![[1.-Seashells_Pile_WEB.jpg]]
 

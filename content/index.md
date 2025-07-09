@@ -1,6 +1,10 @@
 ---
 title: News
+cssclasses:
+  - CustomTitle
 ---
+# News
+
 ---
 
 | Writing                                                                                                                        |                                                                                                                                                                                                                        |

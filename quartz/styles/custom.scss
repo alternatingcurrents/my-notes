@@ -13,9 +13,14 @@
 }
 
 .article-title {
+  display: none;
+}
+
+h2 {
   margin: 4rem 0 4rem;
   color: var(--dark);
   font-size: calc(1.35em + 0.55vw);
+  font-weight: 400;
 }
 
 ul.datelist {

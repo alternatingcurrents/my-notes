@@ -1,6 +1,6 @@
 *This essay was commissioned by Beatriz Alonso, in response to her exhibition [Shyness of The Crown](https://www.fraclorraine.org/ancien-site/en/voyagez/autres/528.html) in museum Frac Lorraine in Metz, France. Thank you, Matthew Stadler, for your editorial support and guidance.*
 
-# Straight Roads and Other Ghosts
+## Straight Roads and Other Ghosts
 
 I still don't know what the phrase “residential counsellor” means, but according to some paperwork I kept, that’s what I was. I helped people who came to the Netherlands looking for asylum. They had a variety of needs. The process of applying for a residence permit began for them with an X-ray. If the doctor found dark spots on their lungs they would be quarantined, because those spots can indicate tuberculosis. Those cleared went through a biometric process that converted highly personal somatic specificities into data, the first steps in becoming a Western bureaucratic entity. All this happened in the north-east of the Netherlands, near the border with Germany, in a complex of concrete buildings that used to belong to the Department of Defence. Some asylum seekers could continue their application there, others were sent to the facility where I worked.
 

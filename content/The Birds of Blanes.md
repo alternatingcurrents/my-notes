@@ -1,5 +1,4 @@
-
-
+## The Birds of Blanes
 
 My son and I are on a bench by the Plaça Mare de Déu del Vilar, in the shade of two Iberian pines whose canopies have become entangled beyond separation. The dilapidated building before us once housed Antiguo Hogar del Producto, a bar Roberto Bolaño frequented during his first years in town, but it’s boarded up, fenced off, its caulk split and curling from years of salt and sun. The colonnade of arcade arches that borders the plaza serves as a sort of Mediterranean Stonehenge to mark the sea, the shore and the avenue that runs like the margin of a page parallel to the town of Blanes.
 
