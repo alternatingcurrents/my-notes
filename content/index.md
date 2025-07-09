@@ -1,7 +1,6 @@
 ---
-title:
+title: News
 ---
-
 ---
 
 | Writing                                                                                                                        |                                                                                                                                                                                                                        |
