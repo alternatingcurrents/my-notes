@@ -18,7 +18,7 @@ body {
   box-sizing: border-box;
   background-color: var(--light);
   font-family: var(--bodyFont);
-  color: var(--darkgray);
+  color: var(--dark);
 }
 
 .text-highlight {
@@ -413,9 +413,13 @@ h2 {
 }
 
 h3 {
-  font-size: 1.12rem;
+  font-size: 1.6rem;
+  font-family: var(--bodyFont);
   margin-top: 1.62rem;
-  margin-bottom: 1rem;
+  margin-bottom: -1rem;
+  font-weight: normal;
+  text-decoration: underline;
+  color: var(--dark);
 }
 
 h4,
