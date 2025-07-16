@@ -1,4 +1,3 @@
-*This essay was commissioned by Beatriz Alonso, in response to her exhibition [Shyness of The Crown](https://www.fraclorraine.org/ancien-site/en/voyagez/autres/528.html) in museum Frac Lorraine in Metz, France. Thank you, Matthew Stadler, for your editorial support and guidance.*
 
 ## Straight Roads and Other Ghosts
 
