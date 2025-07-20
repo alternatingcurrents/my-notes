@@ -20,7 +20,7 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-      fontOrigin: "custom",
+      fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
         header: "Inter",
@@ -32,7 +32,7 @@ const config: QuartzConfig = {
           light: "#f7e3d0",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
-          darkgray: "#6F6E6A",
+          darkgray: "#4e4e4e",
           dark: "#2b2b2b",
           secondary: "#284b63",
           tertiary: "#84a59d",
