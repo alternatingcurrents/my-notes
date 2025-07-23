@@ -415,11 +415,11 @@ h2 {
 h3 {
   font-size: 1.6rem;
   font-family: var(--bodyFont);
-  margin-top: 1.62rem;
-  margin-bottom: -1rem;
   font-weight: normal;
+  font-style: italic;
   text-decoration: underline;
   color: var(--dark);
+  margin-top: 0;
 }
 
 h4,
@@ -546,15 +546,6 @@ p {
   }
 }
 
-th {
-  text-align: left;
-  padding: 0;
-  border-bottom: none;
-  color: var(--darkgray);
-  font-weight: 350;
-  font-size: calc(1.4rem + .5vw);
-  padding-bottom: 2rem;
-}
 
 td {
   padding: 0;
