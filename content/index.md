@@ -4,7 +4,8 @@ cssclasses:
   - Homepage
 ---
 # News
-10 July 2025
+#### Humanities Award
+##### 10 July 2025
 
 I'm honored to have been awarded first prize in the [IE Foundation Prizes in the Humanities](https://www.ie.edu/prizes-humanities/) for the first part of my essay *Reservoirs*! It will be published in an upcoming book, details follow. The award ceremony will take place on October 8th at the IE Tower, P.º de la Castellana, 259, Fuencarral-El Pardo, 28046 Madrid. Let me know if you'll be there, I hope to see you!
 
