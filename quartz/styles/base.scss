@@ -403,8 +403,8 @@ h1 {
   font-size: calc(1.4rem + 0.5vw);
   margin-top: 4rem;
   margin-bottom: 1rem;
-  font-weight: 200;
-  color: var(--darkgray);
+  font-variation-settings: 'wght' 300;
+  color: var(--gray);
 }
 
 h2 {
@@ -552,6 +552,10 @@ p {
       line-height: 1.5;
     }
 
+    th {
+        color: var(--gray);
+    }
+
     & > * {
       line-height: 2rem;
     }
@@ -563,6 +567,10 @@ td {
   padding: 0;
   vertical-align: top;
   color: var(--dark);
+}
+
+th {
+  font-variation-settings: 'wght' 300;
 }
 
 tr {
