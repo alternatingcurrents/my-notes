@@ -5,11 +5,11 @@ cssclasses:
 ---
 # News
 #### Poema de una polis
-##### 30 july 2025
+##### 31 July 2025
 
 We’ve just published a Spanish translation of Vasiliki Sifostratoudaki’s _The Poem Of A Polis_ over at [kilo](https://kilotranslations.org/). Vasiliki is a Greek artist, writer and educator, whose work is well worth looking into. Check out her website [here](http://vasilikisifostratoudaki.gr). She also runs an artist-in-residency in Athens, Greece called [Yellow Brick](https://vasilikisifostratoudaki.gr/project/yellow-brick/). 
 
-It’s been an honor working on this piece again, having previously edited it for [The GOAT PoL](http://thegoatpol.org). Many thanks to Andrés Porras Chaves for his careful proofreading. Spanish readers, you can read the translation on the kilo site, [here](https://kilotranslations.org/index/poema-de-una-polis/). English readers, the original is available on the GOAT, [here](https://thegoatpol.org/story/the-poem-of-a-polis/). 
+It’s been an honor working on this piece again, having previously edited it for [The GOAT PoL](http://thegoatpol.org). Many thanks to Andrés Porras Chaves for his careful proofreading. Spanish readers, find the translation on the kilo site, [here](https://kilotranslations.org/index/poema-de-una-polis/). English readers, the original is available on The GOAT, [here](https://thegoatpol.org/story/the-poem-of-a-polis/). 
 
 Let me know your thoughts!
 
