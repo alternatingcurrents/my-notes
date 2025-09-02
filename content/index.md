@@ -73,12 +73,6 @@ I'm honored to have been awarded first prize in the [IE Foundation Prizes in the
       <td class="tgp-style-1"> <h3><a href="https://cthulhubooks.com/products/making-kin-ii-plants?variant=54702502838598" target="_blank">Making Kin: Plants</a></h3>Translation for <a href="https://cthulhubooks.com/" target="_blank">Cthulu Books</a> (Madrid, ES).
       </td>
     </tr>
-     <tr>
-      <td>2025/07
-      </td>
-      <td class="tgp-style-1"> <h3><a href="https://nielsbekkema.nl/The-Birds-of-Blanes">The Birds of Blanes</a></h3>Brief essay on a journey to Blanes (ES) with my son, Roberto Bolaño, seagulls and pigeons.
-      </td>
-    </tr>
       <tr>
       <td>2025/06
       </td>
