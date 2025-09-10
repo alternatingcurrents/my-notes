@@ -70,6 +70,12 @@ I'm honored to have been awarded first prize in the [IE Foundation Prizes in the
     <tr>
       <td style="width:15%">2025/07
       </td>
+      <td class="tgp-style-1"> <h3><a href="https://tintjournal.com/flash-fiction/cloth" target="_blank">Cloth</a></h3>Flash fiction, published by <a href="https://tintjournal.com" target="_blank">Tint Journal</a> (Graz, AT).
+      </td>
+    </tr>
+        <tr>
+      <td>2025/07
+      </td>
       <td class="tgp-style-1"> <h3><a href="https://cthulhubooks.com/products/making-kin-ii-plants?variant=54702502838598" target="_blank">Making Kin: Plants</a></h3>Translation for <a href="https://cthulhubooks.com/" target="_blank">Cthulu Books</a> (Madrid, ES).
       </td>
     </tr>
