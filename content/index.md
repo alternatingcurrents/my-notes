@@ -70,7 +70,7 @@ I'm honored to have been awarded first prize in the [IE Foundation Prizes in the
        <tr>
       <td style="width:15%">2025/10
       </td>
-      <td class="tgp-style-1"> <h3><a href="https://tintjournal.com/flash-fiction/cloth" target="_blank">Reservoirs</a></h3>Narrative essay, part one published by <a href="https://www.ie.edu/prizes-humanities/book/winners-faculty-staff/winners-faculty-staff-2025/" target="_blank">IE Foundation</a> (Spain, ES) and <a href="https://thegoatpol.org/story/reservoirs-part-1/" target="_blank">The GOAT PoL</a>. <br> Part two was published on The GOAT PoL as well, <a href="https://thegoatpol.org/story/reservoirs-part-1/" target="_blank">here</a>.
+      <td class="tgp-style-1"> <h3><a href="https://thegoatpol.org/story/reservoirs-part-1" target="_blank">Reservoirs</a></h3>Narrative essay, part one published by <a href="https://www.ie.edu/prizes-humanities/book/winners-faculty-staff/winners-faculty-staff-2025/" target="_blank">IE Foundation</a> (Spain, ES) and <a href="https://thegoatpol.org/story/reservoirs-part-1/" target="_blank">The GOAT PoL</a>. <br> Part two was published on The GOAT PoL as well, <a href="https://thegoatpol.org/story/reservoirs-part-1/" target="_blank">here</a>.
       </td>
     </tr>
         <tr>
