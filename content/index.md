@@ -3,21 +3,6 @@ title: News
 cssclasses:
   - Homepage
 ---
-# News
-#### Poema de una polis
-##### 31 July 2025
-
-We’ve just published a Spanish translation of Vasiliki Sifostratoudaki’s _The Poem Of A Polis_ over at [kilo](https://kilotranslations.org/). Vasiliki is a Greek artist, writer and educator, whose work is well worth looking into. Check out her website [here](http://vasilikisifostratoudaki.gr). She also runs an artist-in-residency in Athens, Greece called [Yellow Brick](https://vasilikisifostratoudaki.gr/project/yellow-brick/). 
-
-It’s been an honor working on this piece again, having previously edited it for [The GOAT PoL](http://thegoatpol.org). Many thanks to Andrés Porras Chaves for his careful proofreading. Spanish readers, find the translation on the kilo site, [here](https://kilotranslations.org/index/poema-de-una-polis/). English readers, the original is available on The GOAT, [here](https://thegoatpol.org/story/the-poem-of-a-polis/). 
-
-Let me know your thoughts!
-
-----
-#### IE Foundation Humanities Award
-##### 10 July 2025
-
-I'm honored to have been awarded first prize in the [IE Foundation Prizes in the Humanities](https://www.ie.edu/prizes-humanities/) for the first part of my essay *Reservoirs*! It will be published in an upcoming book, details follow. The award ceremony will take place on October 8th at the IE Tower, P.º de la Castellana, 259, Fuencarral-El Pardo, 28046 Madrid. Let me know if you'll be there, I hope to see you!
 
 ---
 <style>
@@ -68,7 +53,13 @@ I'm honored to have been awarded first prize in the [IE Foundation Prizes in the
   </thead>
   <tbody>
    <tr>
-      <td style="width:15%">2025/11
+    <td style="width:15%">2026/01
+      </td>
+      <td class="tgp-style-1"> <h3><a href="https://www.ie.edu/insights/articles/useful-friction-ai-breath-and-the-labor-of-writing/" target="_blank"> Useful Friction: AI, Breath and the Labor of Writing</a></h3>Essay on writing, breath, and the changing presence of the body, published by <a href="https://www.ie.edu/insights/" target="_blank">IE Insights</a> (Madrid, ES).
+      </td>
+      </tr>
+      <tr>
+      <td>2025/11
       </td>
       <td class="tgp-style-1"> <h3><a href="https://dcv-books.com/produkt/pieter-slagboom-scent-of-hypnosis/" target="_blank">The Scent of Hypnosis</a></h3>Translation from English to Dutch of the book The Scent of Hypnosis, by artist <a href="https://pieterslagboom.nl" target="_blank">Pieter Slagboom</a>, published by <a href="https://dcv-books.com" target="_blank">DCV Books</a> (DE).
       </td>
